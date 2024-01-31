@@ -1,0 +1,241 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container2{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    background-size: cover;
+    flex-wrap: wrap;
+    background-image: url(./image/image-04.png);
+}
+.img{
+    width: 25%;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+
+.box{
+    flex-direction: row;
+    /* margin-left: 100px;
+     margin-top: -50px;  */
+} 
+
+.list{
+    margin-left: 550px;
+    margin-top: -30px;
+    /* text-decoration: none;
+    color: white; */
+}
+.list1{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.list1:hover{
+    background: gold;
+}
+.list2{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 15px;
+}
+.list2:hover{
+    background: gold;
+}
+.list3{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 15px;
+}
+.list3:hover{
+    background: gold;
+}
+.list4{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 15px;
+}
+.list4:hover{
+    background: gold;
+}
+.list5{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 15px;
+}
+.list5:hover{
+    background: gold;
+}
+
+.list6{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 35px;
+    border: 1px solid yellow;
+}
+.list6:hover{
+    background: gold;
+}
+.mg1{
+    width: 40%;
+    margin-left: 700px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+.p1{
+    margin-top: -430px;
+    font-size: 80px;
+    width: 500px;
+    margin-left: 100px;
+    color: white;
+}
+span{
+    color: gold;
+}
+.p2{
+    color: white;
+    width: 450px;
+    margin-left: -500px;
+    margin-top: -130px;
+    font-size: 20px;
+    line-height: 30px;
+}
+.butt{
+    background: gold;
+    padding: 0px 30px 0px 30px;
+    margin-top: -50px;
+    margin-left: -450px;
+    border: none;
+    border-radius: 5px;
+}
+.container1{
+    width: 100%;
+    flex-direction: row;
+    background: rgb(1,0,42);
+    background-size: cover;
+    height: 300vh;
+}
+.img1{
+    width: 30%;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.p4{
+    margin-left: 700px;
+    margin-top: -200px;
+    font-size: 50px;
+    color: white;
+    width: 400px;
+}
+.img2{
+    width: 30%;
+    margin-top: 190px;
+    margin-left: 700px;
+}
+.p5{
+    color: white;
+    margin-top: -200px;
+    margin-left: 200px;
+    font-size: 50px;
+    width: 400px;
+}
+.img3{
+    width: 30%;
+    margin-top: 190px;
+    margin-left: 200px;
+}
+
+.p6{
+    margin-left: 700px;
+    margin-top: -200px;
+    font-size: 50px;
+    color: white;
+    width: 400px;
+}
+.h1{
+    color: white;
+    font-size: 30px;
+    margin-top: 300px;
+    text-align: center;
+}
+.h2{
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+    text-align: center;
+}
+.box2{
+    width: 100%;
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+}
+.smallbox{
+    width: 25%;
+    margin-left: 100px;
+    margin-top: 70px;
+    padding: 10px;
+    background-color: rgb(1, 0, 70);
+}
+.c1{
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+.c2{
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-weight: 900;
+    font-size: 20px;
+}
+.c3{
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-weight: lighter;
+}
+.smallbox1{
+    width: 25%;
+    margin-left: 50px;
+    margin-top: 70px;
+    padding: 10px;
+    background-color: rgb(1, 0, 70);
+}
+.smallbox2{
+    width: 25%;
+    margin-left: 50px;
+    margin-top: 70px;
+    padding: 10px;
+    background-color: rgb(1, 0, 70);
+}
+
+
+
+
